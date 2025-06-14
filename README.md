@@ -1,6 +1,6 @@
 # Monthly Bill Generator Apps Script
 
-Continued project from https://github.com/logicxd/Monthly-Bill-Generator-Apps-Script
+Continued project from https://github.com/logicxd/Combine-Email-Bills-Using-Gmail-API
 
 Customizable and extensible way of collecting all your bills before sending out an email with a final receipt to your recipients.
 
